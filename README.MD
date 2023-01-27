@@ -10,12 +10,12 @@
 6) Enquiry 6, from sub-site “Dividens” 1 Line / 10 years
 
 # first step 
-    ## create enviroments
+     create enviroments
         python3 -m venv .venv  linux
         python -m venv .venv windows
         pip install -r requirements.txt
 # second step 
-    ## create id.json file I use urls.py 
+     create id.json file I use urls.py 
         pip install playwright
     Install the required browsers:
         playwright install
@@ -27,4 +27,4 @@
     python app.py
     in a folder name 'out' will be create morningstar.xlsx
 
-# folder templates 
+
