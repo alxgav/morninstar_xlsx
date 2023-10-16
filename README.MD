@@ -1,4 +1,4 @@
-# web scraping from Morningstar into Excel
+# web scraping from Morningstar to Excel
 
 ## Enquirys:
 
